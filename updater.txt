@@ -4,7 +4,7 @@
  "version":"5.74.1",
  "title":"Update Tersedia",
  "description":"SalMod inDriver merekomendasikan Anda
-perbarui ke versi terbaru 5.74.1 Anda
+perbarui ke versi terbaru 5.75.0 Anda
 dapat tetap online aplikasinya sementara
 mengunduh pembaruan.",
 "download":"https://drive.google.com/file/d/179YCBcvLQH4VS5rlUWO-lD0QSNsM6xPH/view?usp=drivesdk"
